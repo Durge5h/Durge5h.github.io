@@ -262,11 +262,11 @@ html {
     left: 0;
     color: #a43f49;
     background-color: #fff;
-    width: 60px;
-    height: 60px;
+    width: 45px;
+    height: 40px;
     text-align: center;
     display: inline-block;
-    line-height: 60px;
+    line-height: 40px;
 }
 
 .menu-close {
