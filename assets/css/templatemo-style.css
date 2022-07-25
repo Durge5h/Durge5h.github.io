@@ -8,7 +8,7 @@ body {
 
 #page-wraper {
     /* background: url(../images/page-bg.jpg) no-repeat center center fixed; */
-    background-color: black;
+    background-color: currentcolor;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -134,7 +134,7 @@ html {
 
 /* Sidebar Menu */
 
-.menu .image {
+.image {
     margin-top: 60px;
     
 }
@@ -227,7 +227,7 @@ html {
     left: 10%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
-  background-color: black;
+  background-color: #17191b;
   box-sizing: border-box;
   height: 100vh;  
   max-height: 100vh !important;
