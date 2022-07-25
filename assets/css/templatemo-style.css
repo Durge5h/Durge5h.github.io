@@ -259,7 +259,7 @@ html {
 #menu-toggle {
     z-index: 999;
     cursor: pointer;
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     color: white;
